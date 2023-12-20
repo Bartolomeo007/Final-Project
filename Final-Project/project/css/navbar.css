@@ -1,0 +1,24 @@
+/* Navbar CSS */
+.navbar {
+    padding: 10px 20px;
+}
+
+.navbar-brand img {
+    vertical-align: middle;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+.nav-pills {
+    float: right;
+}
+
+.nav-link {
+    color: white;
+    padding: 0 10px;
+}
+
+.nav-link.active {
+    font-weight: bold;
+}
